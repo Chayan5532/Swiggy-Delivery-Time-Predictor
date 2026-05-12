@@ -167,7 +167,8 @@ xgboost==3.2.0
 
 ## 👨‍💻 Author
 
-**Yogi Aadesh**
+**Chauhan chayan**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aadeshyogi/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/aadeshyogi12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chayanchauhan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Chayan5532
+)
